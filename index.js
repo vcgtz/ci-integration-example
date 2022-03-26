@@ -1,3 +1,5 @@
 const hola = 2;
 
-console.log('perro');
+const dd = () => hola * 3;
+
+dd();
